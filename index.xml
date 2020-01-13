@@ -58,5 +58,14 @@ Install theme Copy or git clone this theme into the sites themes folder mynewsit
       <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>/docs/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/test/</guid>
+      <description> test Hoge Fuga </description>
+    </item>
+    
   </channel>
 </rss>
